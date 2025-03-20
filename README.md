@@ -148,7 +148,7 @@ A free app for Android that supports a wide range of archive formats, including 
 iZip:
 
 An app for iOS that enables users to create and manage ZIP files, providing features for viewing and extracting files from archives.
-###Conclusion
+### Conclusion
 During the completion of these tasks, the fundamental methods of archiving and compressing data in Linux were explored, specifically the use of the tar command for creating, viewing, and extracting archives. Different compression formats, such as gzip, bzip2, and xz, were analyzed and compared in terms of speed and efficiency.
 
 Additionally, an overview of software tools for archiving and compression was provided for both Linux environments and mobile devices. It was determined that each compression algorithm has its own advantages and disadvantages, and the optimal method depends on the user's specific needs—whether prioritizing processing speed or maximizing disk space savings.
